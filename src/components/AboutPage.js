@@ -9,10 +9,10 @@ const AboutPage = () => {
                 <Card.Body>
                     <Card.Title>Tv Shows</Card.Title>
                     <Card.Text>
-                        Made with pain and agony using React, by Ricky Pasulatan
+                        Made by Ricky Pasulatan
                         <br/>
                         <br/>
-                        API Endpoint yang saya gunakan adalah data Tv Shows dari Tv Maze
+                        The API I use is tv show data from tv maze
                     </Card.Text>
                 </Card.Body>
                 <Card.Footer className="text-muted">~dev</Card.Footer>
